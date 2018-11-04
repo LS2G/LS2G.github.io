@@ -2337,8 +2337,8 @@ height: 1500px;
 	width: 100%;
 	position: absolute;
 flex: 1;
-margin-top: 0px;
-height: auto;
+top: 100em;
+height: 50px;
 bottom: 0;
 
 }
