@@ -120,7 +120,7 @@ top: 1px;
 	position: absolute;
 	display: flex;
 	
-	margin-left: 70em;
+	margin-left: 45em;
 	margin-top: 0.2em;
 
   width: 100%;
@@ -141,10 +141,31 @@ z-index: 15;
 	
 }
 
+#menu
+
+{
+display: table;
+padding: 0;
+
+
+}
+
+
+#menu li
+
+{
+
+display: table-cell;
+width: 180px;
+
+}
+
 
   a
       {
 	    color: #292c30;
+}
+
 text-decoration: none;
 float: right;
 
