@@ -236,7 +236,7 @@ margin-top: 100px;
 }
 
 
-	
+
 h1
 {
 
@@ -267,7 +267,7 @@ h2
 }
 .text1_/*webagency*/
 {
-	position: absolute;
+	position: relative;
 	color: #6aacd2;
 	margin-left: 118px;
 	
@@ -278,7 +278,7 @@ h2
 }
 .text1_1/*l'agence de tous*/
 {
-	position: absolute;
+	position: relative;
 	color: #fcfcfc;
 
 	margin-left: 10.8em;
