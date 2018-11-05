@@ -1965,7 +1965,7 @@ h1 .text1_2  /*VOS PROJETS ! H1*/
 	
 position: relative;
 color: #fff;
-margin-left: -0.5em;
+left: -0.5em;
 top:-14.5em; 
 z-index: 2;
 }
