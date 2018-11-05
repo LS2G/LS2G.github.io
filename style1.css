@@ -1939,7 +1939,7 @@ vertical-align: middle;
 
 }
 
- .text1_1  
+ h1 .text1_1  /*L' AGENCE DE TOUS H1*/
 
 {
 	width: 100%;
@@ -1951,7 +1951,6 @@ text-align: center;
 margin: 0;
 padding: 0;
 
-display: none;
 
 }
 
