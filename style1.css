@@ -1955,18 +1955,18 @@ padding: 0;
 }
 
 
-.text1_2  
+h1 .text1_2  /*VOS PROJETS ! H1*/
 
 {
 	width: 100%;
-	display: none;
+	
 	
 	text-align: center;
 	
 position: relative;
 color: #fff;
-margin-left: 6.7em;
-top:-71em; 
+margin-left: -0.5em;
+top:-14.5em; 
 z-index: 2;
 }
 
