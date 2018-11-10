@@ -43,10 +43,10 @@ height: 159vh;
 
 }
 
+/*menu fixe*/
 
 
-
-		#accueil	
+#accueil	
 
 
 		{
@@ -73,7 +73,7 @@ height: 600px;
 
 	width: 100%;
 	margin-bottom: 0.5em;
-top: 0em;
+top: 0.10em;
 
 
 
@@ -103,7 +103,7 @@ position: relative;
 	width: 100%;
 	min-width: 100.4em;
 	height: 4em;
-top: 1px;
+top: -2px;
 
 
 	
@@ -130,20 +130,14 @@ z-index: 15;
       }
 
 
-#nav a
 
-{
-
- font-family: 'Roboto Thin', 'Roboto';
-	
-}
 
 #menu
 
 {
 display: table;
 padding: 0;
-
+font-family: 'Roboto Thin', 'Roboto';
 
 }
 
@@ -167,28 +161,7 @@ text-decoration: none;
 
 }
 
-.Accueil
-{
-	margin-left:  1.2em;
-	font-style: normal;
-	font-family: 'Roboto Thin';
 
-  }   
-.Service
-{
-margin-left: 1.2em;
-font-family: 'Roboto Thin';
-}
-.Portfolio
-{
-	margin-left: 1.2em;
-font-family: 'Roboto Thin';
-}
-.Contact
-{
-	margin-left: 1.2em;
-	font-family: 'Roboto Thin';
-}
 
 
 
@@ -216,7 +189,7 @@ font-family: 'Roboto Thin';
 		
 		
 		font-family: 'Roboto';
-position: relative;
+
 
 	}
 
