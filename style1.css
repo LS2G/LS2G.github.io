@@ -1114,6 +1114,7 @@ justify-content: center;
 margin-left: 40.1em;
 margin-bottom: 0em; 
 
+top: 455.2px;
 
 }
 
@@ -1530,7 +1531,13 @@ margin-top: -4px;
 
 }
 
+ul#conteneur_images
 
+{
+
+list-style: none;
+
+}
 
 
 .conteneur_image_overlay:hover .overlay
