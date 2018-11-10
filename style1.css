@@ -193,20 +193,6 @@ text-decoration: none;
 
 	}
 
-.inner_container
-
-{
-
-text-align: left;
-position: absolute;
-width: 100%;
-color: white;
-height: auto;
-margin-top: 100px;
-}
-
-
-
 h1
 {
 
@@ -237,7 +223,7 @@ h2
 }
 .text1_/*webagency*/
 {
-	position: relative;
+	position: absolute;
 	color: #6aacd2;
 	margin-left: 118px;
 	
@@ -248,10 +234,10 @@ h2
 }
 .text1_1/*l'agence de tous*/
 {
-	position: relative;
+	position: absolute;
 	color: #fcfcfc;
 
-	margin-left: 0.2em;
+	margin-left: 10.8em;
 	margin-top: 0em;
 	margin-bottom: 5px;
 
@@ -280,7 +266,7 @@ h2
 	margin-bottom: 100em;
 	margin-top:1em;
 		margin-right: 25em;
-		margin-left: -15.6em;
+		margin-left: 5em;
 
 	padding-top: 0em;
 	padding-bottom:6em;
@@ -296,9 +282,9 @@ h2
 	
 
 	    
-		margin-top: -8em;
+		margin-top: 15em;
 		margin-bottom:0em; 
-		margin-left: 7.4em;
+		margin-left: 8em;
 
 
 	width: 29em;
@@ -330,9 +316,9 @@ h2
 	 
 
 	 margin: 0em;
-	 margin-left: 7.6em;
+	 margin-left: 8em;
 	 margin-bottom: 1em;
-	 margin-top: -5.5em;
+	 margin-top: 19.3em;
 	 
 
 }
