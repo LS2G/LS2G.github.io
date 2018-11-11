@@ -451,17 +451,17 @@ width:6.7em;
 		 font-family: 'Roboto';
 
 
-width: 33em;
-height: 3em;
+width: 33%;
+height: 3%;
 
 text-align: center;
 
-	 margin-left: 35em;
-     margin-top: 15.2em;
+	 margin-left: 39%;
+     margin-top: 11%;
    
 
      line-height: 25px;	
-
+position: absolute;
 
 
         }
