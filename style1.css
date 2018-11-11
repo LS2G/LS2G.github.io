@@ -415,7 +415,7 @@ position: absolute;
 
 {
 
-
+display: none;
 	border: 3px solid #fff;
 }
 
@@ -1429,7 +1429,7 @@ margin-left: 0em;
 margin-bottom: 1em;
 margin-right: 1em;
 
-	width:17em;
+	width: 31%;
 overflow: visible;
 	
 }
