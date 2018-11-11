@@ -355,15 +355,19 @@ margin-bottom: 10em;
 {
 
 	text-align: center;
-	margin-bottom: 10px;
-	 margin-top: 20px;
-	 margin-left: 1.5em;
+	margin-bottom: 0;
+	 margin-top: 0;
+	 margin-left: 0;
 
-	 padding-bottom: 20px;
-	 height: 1px;
+	 padding-bottom: 0;
+	 height: 0.1%;
 
-	 font-size: 1.5em;
+	 font-size: 200%;
 	 font-family: 'Roboto';
+	 position: absolute;
+	 left: 45%;
+	 top: 45%;
+	 
 }
 
 
