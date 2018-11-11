@@ -2060,7 +2060,9 @@ top: 48px;
 
 flex-grow: 1;
 padding: 0 0% 0% 0%;
-width: 100%;
+width: 45%;
+position: absolute;
+left: 10%;
 
 }
 
