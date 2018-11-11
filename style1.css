@@ -365,8 +365,8 @@ margin-bottom: 10em;
 	 font-size: 200%;
 	 font-family: 'Roboto';
 	 position: absolute;
-	 left: 45%;
-	 top: 48%;
+	 left: 39.7%;
+	 top: 54%;
 
 }
 
@@ -380,7 +380,7 @@ margin: 0;
 width: 100%;
 display: flex;
 flex-wrap: wrap;
-top: 50%;
+top: 39%;
 left: -25%;
 position: absolute;
 
@@ -457,12 +457,12 @@ height: 3%;
 text-align: center;
 
 	 margin-left: 37%;
-     margin-top: -10%;
+     margin-top: -7%;
    
 
      line-height: 18px;	
 position: absolute;
-
+left: -12%;
 
         }
 
@@ -488,7 +488,7 @@ right: 10%;
 
 	
 	margin-top: 15%;
-	margin-left: 15%;
+	margin-left: 8%;
 	
 
 }
@@ -516,6 +516,7 @@ aside
 display: block;
 width: 100%;
 
+right: 23%;
    
         }
  
@@ -984,9 +985,9 @@ margin-top: 25em;
 margin-bottom:1em;
 
 padding-right: 42em;
-padding-bottom: 46em;
+padding-bottom: 70em;
 
-height: 147%;
+height: 100%;
 width: 78%;
 
 
