@@ -1943,7 +1943,7 @@ width: 80%;
 
 width: 100%;
 position: relative;
-left: 450px;
+left: 550px;
 margin:  0;
 
 }
@@ -2486,7 +2486,7 @@ width: 110%;
 margin: 0 auto;
 bottom: 50px;
 top: -270px;
-
+left: 50px;
 }
 
 ul#conteneur_images
