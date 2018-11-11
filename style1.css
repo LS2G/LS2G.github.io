@@ -473,7 +473,10 @@ position: absolute;
 
 width: 100%;
 margin: 0;
-
+position: absolute;
+display: block;
+top: 74%;
+right: 10%;
 
 
 }
