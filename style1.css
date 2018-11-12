@@ -379,8 +379,8 @@ margin-bottom: 17%;
 	 font-size: 200%;
 	 font-family: 'Roboto';
 	 position: absolute;
-	 left: 39.7%;
-	 top: 54%;
+	 left: -51.3%;
+	 top: 24%;
 
 }
 
@@ -511,7 +511,7 @@ right: 10%;
 aside
 {
 
-	margin-top: 6.5%;
+	margin-top: -13.5%;
 	margin-left: 2%;
 	width: 100%;
 	position: absolute;
@@ -556,9 +556,9 @@ width: 150px;
 
 
 
-margin-top: 3.2em;
+margin-top: 8em;
 margin-bottom: 2em;
- margin-left: 37.4em;
+ margin-left: 56em;
  
 
 
@@ -574,7 +574,7 @@ margin-bottom: 2em;
 
 position: absolute;
 display: inline-block;
-
+top: 45px;
 color:  #6eaed3;
 
 
@@ -699,8 +699,8 @@ width: 28.5em;
 	width: 150px;
 
 	
-	margin-left: 37.4em;
-	margin-top: 11.9em;
+	margin-left: 56em;
+	margin-top: 17em;
 
 
 }
@@ -712,7 +712,7 @@ width: 28.5em;
 
 position: absolute;
 display: inline-block;
-
+top: 45px;
 color:  #6eaed3;
 
 }
@@ -837,8 +837,8 @@ position: absolute;
 
 width: 150px;
 
-margin-left: 37.4em;
-margin-top: 20.8em;
+margin-left: 56em;
+margin-top: 25.7em;
 
 }
 
@@ -850,7 +850,7 @@ margin-top: 20.8em;
 
 position: absolute;
 display: inline-block;
-
+top: 45px;
 color:  #6eaed3;
 
 }
