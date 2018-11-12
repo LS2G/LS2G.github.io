@@ -13,26 +13,8 @@ box-sizing: border-box;
 
  }
   
-}
-              
 
-
-/*HEADER SECTION*/
-
-@media screen and (max-width:767px)
-
-
-{
-
-* { 
-
-margin: 0;
-padding: 0;
-box-sizing: border-box;
-
- }
-
-html, body
+  html, body
 
 {
 
@@ -47,15 +29,20 @@ body
 	font-family: 'Roboto';
 	color: #000;
 }
+}
+              
 
-#accueil
+
+/*HEADER SECTION*/
+
+@media screen and (max-width:767px)
+
 
 {
 
-background-color: #fff;
-width: 100%;
 
-}
+
+
 
 #zone_menu
 
