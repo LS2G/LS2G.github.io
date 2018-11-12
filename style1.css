@@ -1680,7 +1680,7 @@ position: relative;
 
 .contact-form{
     
-    left: 65%;
+    left: 55%;
     -webkit-transform: translate(-20%, -20%);
     transform: translate(-20%, -20%);
     border: 1px white solid;
