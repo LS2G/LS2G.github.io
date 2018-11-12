@@ -73,10 +73,7 @@ z-index: 99;
 
 {
 
-justify-content: center;
-padding: 69px 0px 0px 0px;
-margin-left: 0%;
-background-color: transparent;
+
 text-align: center;
 }
 
@@ -135,7 +132,7 @@ z-index: 99;
 justify-content: center;
 padding: 65px 0px 40px 0px;
 margin: 0 0 0 0;
-background-color: #fff;
+background-color: transparent;
 }
 
  #menu a
