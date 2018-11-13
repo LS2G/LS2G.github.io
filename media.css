@@ -292,23 +292,7 @@ border-radius: 100%;
 
 }
 
-.intro
 
-{
-
-text-align: center;
-padding: 0;
-margin: -16px 0 0 0;
-line-height: 16px;
-font-family: 'Roboto';
-
-color: #707070;
-display: block;
-position: absolute;
-left: 50.55px;
-top: 582px;
-width: 100%;
-}
 }
 
 @media screen and (max-width: 1088px)
