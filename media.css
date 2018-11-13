@@ -400,18 +400,16 @@ border-radius: 100%;
 
 {
 
-text-align: center;
+
 padding: 0;
 margin: 0;
-line-height: 1.6;
-font-family: 'Roboto';
+
 
 color: #707070;
-display: block;
-position: absolute;
-left: 50.55px;
-top: 820px;
-width: 100%;
+
+
+top: 605px;
+
 }
 }
 /*fin en tete service*/
