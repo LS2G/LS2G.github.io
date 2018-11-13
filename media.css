@@ -404,20 +404,6 @@ top: 605px;
 @media screen and (max-width:768px)
 {
 
-.contenu_service  /*conteneur global image+H2+textes+FA*/
-
-{
-
-display: flex;
-flex-direction: column;
-flex-wrap: wrap;
-align-content: center;
-margin: 0px 0px;
-position: relative;
-top: 112%;
-right: 208px;
-
-}
 
 
 .flotte1  /*container image ordi*/
@@ -709,14 +695,13 @@ margin-left: 3em;
 
 {
 
-display: flex;
 flex-direction: column;
 flex-wrap: wrap;
 align-content: center;
-margin: 0px 0px;
-position: relative;
-top: 283px;
-right: 208px;
+
+
+
+
 
 }
 
