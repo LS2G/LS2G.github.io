@@ -428,31 +428,6 @@ right:  65%;
 text-align: center;
 }
 
-#container /*conteneur H2+textes*/
-
-{
-
-display: flex;
-flex-wrap: wrap;
-width: 100%; 
-flex-grow: 1;
-padding: 3.5% 8% 0 2.5%;
-position: relative;
-left: 45%;
-}
-
-.block
-
-{
-
-position: relative;
-display: flex;
-flex-direction: row;
-width: 100%;
-margin: 20px 0;
-height: 70px;
-
-}
 
 .block #icones1 
 
