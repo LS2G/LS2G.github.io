@@ -1166,23 +1166,22 @@ ul#conteneur_images
 
 
 {
-list-style: none;
-display: flex;
-flex-wrap: wrap;
+
+
 
 
 margin: 0 ;
 width: 22.2%; 
 height: 69%;
-flex-direction: column;
+
 padding: 0% 0% 28% 0%;
 align-content: center;
-position: relative;
+position: absolute;
 
-left: 550px;
+left: 271px;
 right: 0px;
 bottom: 50px;
-top: 140px;
+top: 480px;
 }
 
 li.conteneur_image_overlay
