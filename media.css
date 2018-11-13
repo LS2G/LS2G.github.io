@@ -406,15 +406,6 @@ top: 605px;
 
 
 
-.flotte1  /*container image ordi*/
-
-{
-
-margin: 0;
-width: 100%;
-position: relative;
-top: 48px;
-}
 
 .flotte1 img/*image ordi*/
 
@@ -698,9 +689,6 @@ margin-left: 3em;
 flex-direction: column;
 flex-wrap: wrap;
 align-content: center;
-
-
-
 
 
 }
