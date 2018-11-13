@@ -923,15 +923,6 @@ margin-left: 3em;
 
 
 
-#groupe_en_tete
-
-{
-
-display: block;
-margin-top: 0em;
-right: 0px;
-
-}
 
 #en_tete_3
 
@@ -945,28 +936,7 @@ left: -30px;
 
 }
 
- .projets
-
-
-{
-
-font-family: 'Roboto';
-font-size: 40px;
-font-weight: bold;
-padding: 20px 0 0 0px;
-text-align: center;
-margin: 130px 0 0 0;
-font-kerning: normal;
-line-height: 1.6;
-width: 110%;
-top: 145px;
-right: -16.55px;
-left: -19.1px;
-bottom: 250px;
-display: block;
-}
-
-
+ 
 .rectangle2
 
 {
@@ -1057,15 +1027,7 @@ top: -210px;
 
 
 
-#groupe_en_tete
 
-{
-
-display: block;
-margin-top: 0em;
-right: 0px;
-
-}
 
 #en_tete_3
 
@@ -1084,20 +1046,20 @@ left: -30px;
 
 {
 
-font-family: 'Roboto';
-font-size: 40px;
+
+
 font-weight: bold;
 padding: 20px 0 0 0px;
 text-align: center;
 margin: 130px 0 0 0;
 font-kerning: normal;
 line-height: 1.6;
-width: 110%;
-top: -476px;
+
+top: 200px;
 right: -16.55px;
-left: -19.1px;
+
 bottom: 250px;
-display: block;
+
 }
 
 
