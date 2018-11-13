@@ -41,26 +41,6 @@ body
 {
 
 
-
-
-
-#zone_menu
-
-{
-
-display: flex;
-flex-direction: row;
-justify-content: space-between;
-position: fixed;
-
-z-index: 150;
-top: 0;
-left: 0;
-width: 100%;
-
-
-}
-
 .flotte
 
 {
