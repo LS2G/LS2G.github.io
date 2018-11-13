@@ -215,31 +215,22 @@ margin-top: 9.5em;
 
 }
 
-
-
 }
 
 /*fin bannière*/
 
+
+
 /*services*/
+
+
+
 /*en tete service*/
 
 @media screen and (max-width:768px)
 {
 
-#service
 
-
-{
-
-margin: 0% 0% 25% 0%;
-display: flex;
-justify-content: center;
-flex-wrap: wrap;
-width: 80%;
-
-
-}
 .services
 
 {
