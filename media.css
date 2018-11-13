@@ -997,7 +997,10 @@ font-size: 14px;
 color: #707070;
 width: 100%;
 }
-
+.intro_bis
+{
+margin: 234% 35% 5% auto;
+	
 }
 
 @media screen and (max-width:1024px)
@@ -1118,8 +1121,8 @@ width: 100%;
 
 {
 
+position: relative;
 
-margin: 234% 35% 5% auto;
 
 }
 }
